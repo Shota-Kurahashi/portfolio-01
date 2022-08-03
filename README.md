@@ -6,9 +6,9 @@ First, run the development server:
 
 ```bash
 
-npm install
+yarn install
 
-npm run prepare
+yarn prepare
 
 npm run dev
 # or
@@ -39,4 +39,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 # nextjs-typescript
+
 # portfolio-01
